@@ -10,7 +10,7 @@ The project is a Web naming system, The website take user date of birth as input
 ## know bugs
 No bugs
 ## Technologies used
-HTML, CSS, jQUERY, Javascript
+HTML, CSS and Javascript 
 
 ## Live link
 https://nicksonmulama.github.io/Akan-names-ghana/
